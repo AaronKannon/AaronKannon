@@ -1,15 +1,15 @@
 <h1 align="center">Hello there!</h1>
-<h2 align="center"> I'm Wellington Barros Moraes, a fullstack junior developer</h2>
+<h2 align="center"> I'm Wellington Barros Moraes (He/Him), a fullstack junior developer</h2>
 
 <br>
 
-⚡ I started with programming in college. After a long time, I decided to focus on the development area, mainly on full-stack development.
+ 💻 I started with programming in college. After a long time, I decided to focus on the development area, mainly on full-stack development.
 
-⚡ Currently, my focus is to study and work with Typescript/Javascript to the front-end and back end.
+ 💻 Currently, my focus is to study and work with Typescript/Javascript to the front-end and back end.
 
-⚡ I studied in the Santander Fullstack Bootcamp from Santander and Digital Innovation One.
+ 💻 I studied in the Santander Fullstack Bootcamp from Santander and Digital Innovation One.
 
-### Tecnologies
+### 💻 Tecnologies
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
