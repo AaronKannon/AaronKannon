@@ -12,21 +12,32 @@
 ### 💻 Tecnologies
 
 <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Angulart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+    <img align="center" alt="Angulart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
+    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
 <br>
 
- <div align="center">
-  <a href="https://github.com/AaronKannon">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AaronKannon&count_private=true&show_icons=true&theme=buefy&title_color=6071BF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaronKannon&layout=compact&langs_count=10&count_private=true&show_icons=true&theme=buefy&title_color=6071BF"/>
+<div align="center">
+    <div>
+        <div>
+            <a href="https://github.com/AaronKannon">
+                <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AaronKannon&count_private=true&show_icons=true&theme=buefy&title_color=6071BF" />
+                <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaronKannon&layout=compact&langs_count=10&count_private=true&show_icons=true&theme=buefy&title_color=6071BF" />
+            </a>
+        </div>
+    </div>
+    <div>
+        <div>
+            <a href="https://app.daily.dev/aaronkannon">
+                <img src="https://api.daily.dev/devcards/5f182943714f44a6894b53a175cf62bc.png?r=23y" width="300" alt="Wellington Barros Moraes's Dev Card" />
+            </a>
+        </div>
+    </div>
 </div>
-
 
 <!--
 **AaronKannon/AaronKannon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
