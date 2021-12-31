@@ -1,5 +1,5 @@
 <h1 align="center">Hello there!</h1>
-<h2 align="center"> I'm Wellington Barros Moraes (He/Him), a fullstack junior developer</h2>
+<h2 align="center"> I'm Wellington Barros Moraes (He/Him), a junior full-stack developer </h2>
 
 <br>
 
